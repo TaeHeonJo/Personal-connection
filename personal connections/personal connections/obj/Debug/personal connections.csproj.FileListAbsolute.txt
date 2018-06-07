@@ -1,0 +1,10 @@
+C:\Users\J\source\repos\personal connections\personal connections\bin\Debug\personal connections.exe.config
+C:\Users\J\source\repos\personal connections\personal connections\bin\Debug\personal connections.exe
+C:\Users\J\source\repos\personal connections\personal connections\bin\Debug\personal connections.pdb
+C:\Users\J\source\repos\personal connections\personal connections\obj\Debug\personal_connections.Form1.resources
+C:\Users\J\source\repos\personal connections\personal connections\obj\Debug\personal_connections.Properties.Resources.resources
+C:\Users\J\source\repos\personal connections\personal connections\obj\Debug\personal connections.csproj.GenerateResource.cache
+C:\Users\J\source\repos\personal connections\personal connections\obj\Debug\personal connections.csproj.CoreCompileInputs.cache
+C:\Users\J\source\repos\personal connections\personal connections\obj\Debug\personal connections.exe
+C:\Users\J\source\repos\personal connections\personal connections\obj\Debug\personal connections.pdb
+C:\Users\J\source\repos\personal connections\personal connections\obj\Debug\personal connections.csprojAssemblyReference.cache
